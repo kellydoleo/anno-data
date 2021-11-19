@@ -1,0 +1,72 @@
+[
+  {
+    "data": [
+      {
+        "id": "7577359",
+        "label": "Vehicle",
+        "mark": {
+          "height": 87.80582524271847,
+          "type": "RECT",
+          "width": 89.12621359223306,
+          "x": 419.88349514563106,
+          "y": 192.11650485436894
+        }
+      },
+      {
+        "id": "757549",
+        "label": "Pet",
+        "mark": {
+          "height": 58.06823027718549,
+          "type": "RECT",
+          "width": 53.501066098081,
+          "x": 252.49893390191895,
+          "y": 106.13219616204692
+        }
+      }
+    ],
+    "img": "https://media.istockphoto.com/photos/aerial-view-of-cars-in-traffic-picture-id159406920?k=20&m=159406920&s=612x612&w=0&h=Td8cfJU5jLDvz1hAlxQqxcThWKrNVq4RTnm69o4Cbxc="
+  },
+  {
+    "data": [
+      {
+        "id": "7ff6s9f",
+        "label": "Person",
+        "mark": {
+          "height": 593.731343283582,
+          "type": "RECT",
+          "width": 357.313432835821,
+          "x": 1093.4328358208954,
+          "y": 511.20149253731347
+        }
+      },
+      {
+        "id": "afsgt57",
+        "label": "Person",
+        "mark": {
+          "height": 330.4477611940298,
+          "type": "RECT",
+          "width": 424.4776119402985,
+          "x": 362.6865671641791,
+          "y": 530.0074626865672
+        }
+      }
+    ],
+    "img": "https://images.pexels.com/photos/238385/pexels-photo-238385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "data": [
+      {
+        "id": "7ljew6",
+        "label": "Person",
+        "mark": {
+          "height": 311.8336886993602,
+          "type": "RECT",
+          "width": 199.09381663113004,
+          "x": 527.7185501066099,
+          "y": 1143.3901918976546
+        }
+      }
+    ],
+    "img": "https://images.pexels.com/photos/10033211/pexels-photo-10033211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  }
+]
